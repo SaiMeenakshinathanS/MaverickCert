@@ -1,0 +1,1 @@
+- [Certificate Template Plain White Background Fix](fix_certificate_template_white_background.md) — Fixed LLM template selection to properly support white background certificates
